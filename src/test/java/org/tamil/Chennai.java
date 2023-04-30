@@ -30,4 +30,19 @@ public class Chennai {
 
 	}
 
+	private void tambaram() {
+		System.out.println("Tambaram");
+
+	}
+
+	private void mudichur() {
+		System.out.println("Mudichur");
+
+	}
+
+	private void kolathur() {
+		System.out.println("Kolathur");
+
+	}
+
 }
