@@ -16,4 +16,18 @@ public class Chennai {
 
 	}
 
+	private void kodambakkam() {
+		System.out.println("Kodambakkam");
+	}
+
+	private void siruseri() {
+		System.out.println("Siruseri");
+
+	}
+
+	private void sholingaNallur() {
+		System.out.println("Sholinganallur");
+
+	}
+
 }
